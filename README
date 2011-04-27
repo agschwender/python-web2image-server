@@ -1,0 +1,3 @@
+This package contains a simple library for running an HTTP server which will
+create a thumbnail for a supplied url.  It relies on PyQt to run the server
+and render the webpage using webkit.
