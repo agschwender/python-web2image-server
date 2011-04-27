@@ -1,3 +1,6 @@
 This package contains a simple library for running an HTTP server which will
 create a thumbnail for a supplied url.  It relies on PyQt to run the server
 and render the webpage using webkit.
+
+This package requires Qt and PyQt4. See respective sites for instructions on
+installing these dependencies.
